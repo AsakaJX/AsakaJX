@@ -1,5 +1,10 @@
-<div align="center">
+<div>
     <img align="left" src="Assets/banner.jpg" width="40%">
+</div>
+
+<div>
+    <h3 align="center">Hi, I'm Asaka :)</h3>
+    
 </div>
 
 <!--
