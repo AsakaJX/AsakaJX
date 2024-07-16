@@ -6,8 +6,19 @@
     <h3 align="center">Hi, I'm Asaka :)</h3>
 </div>
 
+---
+
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> This user has **exactly** 2.5 brain cells.
+
+---
+
+<dl>
+    <dd><b>✨ Languages: </b>C#, Python, JavaScript(learning), HTML, CSS</dd>
+</dl>
+
+###### I'll add something here later...
+
 
 <!--
 **AsakaJX/AsakaJX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
