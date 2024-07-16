@@ -1,10 +1,11 @@
-<div>
+<div align="center">
     <img align="left" src="Assets/banner.jpg" width="40%">
 </div>
 
-<div>
-    <h3 align="center">Hi, I'm Asaka :)</h3>
-    
+<div align="center">
+    <h3 id="welcome-text" align="center">Hi, I'm Asaka :)</h3>
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <h1>test</h1>
 </div>
 
 <!--
