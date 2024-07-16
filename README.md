@@ -3,8 +3,11 @@
 </div>
 
 <div align="center">
-    <h2 id="welcome-text" align="center">Hi, I'm Asaka :)</h2>
+    <h3 align="center">Hi, I'm Asaka :)</h3>
 </div>
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 <!--
 **AsakaJX/AsakaJX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
