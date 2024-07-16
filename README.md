@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-    <h3 id="welcome-text" align="center">Hi, I'm Asaka :)</h3>
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-    <h1>test</h1>
+    <h2 id="welcome-text" align="center">Hi, I'm Asaka :)</h2>
 </div>
 
 <!--
