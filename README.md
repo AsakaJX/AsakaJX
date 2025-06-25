@@ -19,7 +19,9 @@
 
 ###### I'll add something here later...
 
-[![Asaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsakaJX)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=shadow_blue)
+[![Asaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsakaJX&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsakaJX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AsakaJX/AsakaJX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
