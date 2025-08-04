@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h3 align="center">Hi, I'm Asaka :)</h3>
+    <h3 align="center">Asaka :3</h3>
 </div>
 
 ---
