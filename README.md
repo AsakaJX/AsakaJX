@@ -15,7 +15,8 @@
 
 <dl>
     <dd><b>✨ Languages:</b> JavaScript, HTML, CSS, C#, Python</dd>
-    <dd><b>⚡ Will be learning soon:</b> Unit Tests, JavaScript(more in depth), Adaptive Styling, React, Vite, Node.JS, Docker</dd>
+    <dd><b>✨ Currently learning:</b> JavaScript(more in depth)</dd>
+    <dd><b>⚡ Will be learning soon:</b> Unit Tests, Adaptive Styling, React, Vite, Node.JS, Docker</dd>
 </dl>
 
 ###### I'll add something here later...
